@@ -1,0 +1,26 @@
+{
+  "name": "esr-validate",
+  "version": "1.0.0",
+  "description": "Module to validate reference numbers, customer number etc for swiss inpayment slip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisderdube/esr-validate.git"
+  },
+  "keywords": [
+    "esr",
+    "switzerland",
+    "inpayment",
+    "slip",
+    "validation"
+  ],
+  "author": "Lukas Gisder-Dube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisderdube/esr-validate/issues"
+  },
+  "homepage": "https://github.com/gisderdube/esr-validate#readme"
+}
